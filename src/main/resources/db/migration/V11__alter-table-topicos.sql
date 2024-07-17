@@ -1,0 +1,1 @@
+ALTER table topicos ADD COLUMN estatus TINYINT(1);

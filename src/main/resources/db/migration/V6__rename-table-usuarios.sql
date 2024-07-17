@@ -1,0 +1,1 @@
+RENAME TABLE usuarios TO nuevo_nombre_tabla;

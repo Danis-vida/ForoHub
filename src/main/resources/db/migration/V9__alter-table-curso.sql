@@ -1,0 +1,1 @@
+ALTER TABLE cursos ADD COLUMN curso_id bigint;

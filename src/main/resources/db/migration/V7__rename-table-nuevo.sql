@@ -1,0 +1,1 @@
+RENAME TABLE nuevo_nombre_tabla TO autores;
